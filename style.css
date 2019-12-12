@@ -1,3 +1,9 @@
 HTML{
   background-color:#DBD4D3;
+  font-family:sans-serif;
+}
+h1{
+  text-align:center;
+  background-color:#E83151;
+  padding:10px;
 }
