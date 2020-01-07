@@ -7,5 +7,47 @@ h1{
   text-align:center;
   background-color:#E83151;
   padding:10px;
-  border-radius:20px, 20px, 20px, 20px;
+  border-radius:20px 20px 20px 20px;
+}
+header{
+  border-radius: 20px 20px 20px 20px;
+}
+.hoofdpagina{
+  background-color:orange;
+  border-radius:10px 10px 10px 10px;
+  display:flex;
+  flex-direction:row;
+  max-width:300px;
+  text-align:center;
+  padding:10px;
+  margin:20px;
+  margin-right:auto;
+  margin-left:auto;
+}
+#maindiv{
+  display:flex;
+  flex-direction:column;
+  margin-right:auto;
+  margin-left:auto;
+}
+nav{
+  background-color:black;
+  text-decoration-color:white;
+  position:sticky;
+  margin-left: auto;
+  margin-right:auto;
+  text-align:center;
+  border-radius:0px 0px 5px 5px;
+}
+footer{
+  background-color:red;
+  text-align:center;
+  margin:auto;
+  margin-top:1000px;
+  padding:1px;
+  border-radius:20px 20px 20px 20px;
+}
+p{
+  font-family:sans-serif;
+  color:white
 }
