@@ -33,7 +33,7 @@ header{
 nav{
   background-color:black;
   text-decoration-color:white;
-  position:sticky;
+  position:static;
   margin-left: auto;
   margin-right:auto;
   text-align:center;
