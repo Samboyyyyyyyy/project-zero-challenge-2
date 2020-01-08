@@ -61,3 +61,11 @@ p{
 a{
   color:white;
 }
+#kaart{
+  min-width:700px;
+  min-height:500px;
+}
+#google-maps{
+  max-height:50%;
+  max-width:100%;
+}
