@@ -1,5 +1,5 @@
 HTML{
-  background-color:#387780;
+  background-color:#20b9e8;
   font-family:sans-serif;
   background-size
 }
@@ -50,4 +50,11 @@ footer{
 p{
   font-family:sans-serif;
   color:white
+}
+#logo{
+  max-height:10%;
+  max-width:10%;
+  position:absolute;
+  top:10px;
+  left:-18px;
 }
