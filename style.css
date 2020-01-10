@@ -40,10 +40,10 @@ nav{
   border-radius:0px 0px 5px 5px;
 }
 footer{
-  background-color:red;
+  background-color:#d65c49;
   text-align:center;
   margin:auto;
-  margin-top:1000px;
+  margin-top:20px;
   padding:1px;
   border-radius:20px 20px 20px 20px;
 }
@@ -64,8 +64,42 @@ a{
 #kaart{
   min-width:700px;
   min-height:500px;
+  display: flex;
+  flex-direction: column;
 }
 #google-maps{
   max-height:50%;
   max-width:100%;
+}
+#lessons-div{
+  background-color:lightblue;
+  min-width:200px;
+  min-height:50px;
+  border-radius:10px 10px 10px 10px;
+  margin:10px;
+}
+#lessen-main{
+  display:flex;
+  flex-direction:column;
+
+}
+#main{
+  background-color:lightblue;
+  min-width:700px;
+  display:flex;
+  flex-direction: column;
+  min-height:500px;
+}
+#maintext{
+  color:black;
+}
+#jogging{
+  height:100%;
+  width:100%;
+  border-radius:20px 20px 20px 20px;
+}
+a hover{
+  color:grey;
+  background-color:skyblue;
+  border-radius:5px 5px 5px 5px;
 }
