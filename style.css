@@ -62,8 +62,9 @@ p{
 }
 a{
   color:white;
-  font-style:italic;
+  font-family:arial;
   text-decoration: none;
+
 }
 #kaart{
   min-width:700px;
