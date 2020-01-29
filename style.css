@@ -13,7 +13,7 @@ header{
   border-radius: 20px 20px 20px 20px;
 }
 .hoofdpagina{
-  background-image:radial-gradient(#733f34 #fae187);
+  background-image:linear-gradient(#733f34 #fae187);
   border-radius:10px 10px 10px 10px;
   display:flex;
   flex-direction:row;
