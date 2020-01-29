@@ -13,7 +13,7 @@ header{
   border-radius: 20px 20px 20px 20px;
 }
 .hoofdpagina{
-  background-color:orange;
+  background-image:radial-gradient(#733f34 #fae187);
   border-radius:10px 10px 10px 10px;
   display:flex;
   flex-direction:row;
@@ -42,12 +42,12 @@ nav{
 
 }
 footer{
-  background-color:#E83151;
   text-align:center;
   margin:auto;
   margin-top:20px;
   padding:1px;
   border-radius:20px 20px 20px 20px;
+  border-color:#E83151 #E83151 #E83151 #E83151;
 }
 p{
   font-family:sans-serif;
@@ -116,6 +116,6 @@ a:hover{
 .footo{
   max-height:50px;
   max-width:50px;
-  margin-left:50px;
-  margin-right:50px;
+  margin-left:200px;
+  margin-right:200px;
 }
