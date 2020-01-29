@@ -112,3 +112,9 @@ a:hover{
   background-color: white;
 
 }
+.footo{
+  max-height:50px;
+  max-width:50px;
+  margin-left:50px;
+  margin-right:50px;
+}
