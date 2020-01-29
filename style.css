@@ -1,11 +1,10 @@
 HTML{
-  background-color:#20b9e8;
+  background-image:url(background.jpg);
   font-family:sans-serif;
   background-size
 }
 h1{
   text-align:center;
-  background-color:#E83151;
   padding:10px;
   border-radius:20px 20px 20px 20px;
 }
