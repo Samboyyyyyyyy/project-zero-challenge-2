@@ -38,16 +38,19 @@ header{
   margin-left:auto;
 }
 nav{
-  background-color:black;
+  background-color:grey;
+  opacity:0.5;
   text-decoration-color:white;
   width:10%;
-  height:75%;
+  height:20%;
   padding:0;
   border-radius: 10px 10px 10px 10px;
   position: fixed;
   overflow: auto;
   display:flex;
   flex-direction: column;
+  border-style:double;
+  border-color:black;
 }
 footer{
   text-align:center;
@@ -55,7 +58,10 @@ footer{
   margin-top:20px;
   padding:1px;
   border-radius:20px 20px 20px 20px;
+  border-style:solid;
   border-color:#E83151 #E83151 #E83151 #E83151;
+
+
 }
 p{
   font-family:sans-serif;
@@ -70,10 +76,11 @@ p{
   border-style:none;
 }
 a{
-  color:white;
+  color:black;
   font-family:arial;
   text-decoration: none;
   padding:4px 10px;
+  opacity:1;
 
 }
 #kaart{
@@ -133,4 +140,5 @@ a:hover{
   max-width:50px;
   margin-left:200px;
   margin-right:200px;
+  border-style:none;
 }
