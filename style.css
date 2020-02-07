@@ -2,6 +2,8 @@ HTML{
   background-image:url(background.jpg);
   font-family:sans-serif;
   background-size
+  opacity: 0.5;
+  background-color: white;
 }
 img{
   border-style:solid;
@@ -44,7 +46,7 @@ nav{
   width:10%;
   height:20%;
   padding:0;
-  border-radius: 10px 10px 10px 10px;
+  border-radius: 20px 10px 10px 10px;
   position: fixed;
   overflow: auto;
   display:flex;
@@ -127,7 +129,7 @@ a{
 a:hover{
   display:block;
   color:black;
-  background-color:skyblue;
+  background-color:#bfbfbf;
   border-radius:5px 5px 5px 5px;
   padding:2px;
 }
